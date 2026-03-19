@@ -33,6 +33,9 @@ El análisis se basa en tres conjuntos de datos:
 - grupo
 - número de visitas
 
+Los datasets utilizados en este proyecto no se incluyen en el repositorio, ya que fueron proporcionados a través de una plataforma externa y no estaban disponibles para descarga directa.
+Sin embargo, se describe su estructura y variables para facilitar la comprensión del análisis.
+
 ## 🛠️ Herramientas y Tecnologías
 
 - Python
